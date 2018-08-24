@@ -4,9 +4,7 @@ The repo records my git learning notes. You can download the [pdf][1] or [html][
 # Content
 <ul>
                 <li>
-                <a href="#A">
                     Git和Github
-                </a>
                     <ul>
                     <li>本地版本控制</li>
                     <li>集中式版本控制</li>
@@ -20,12 +18,10 @@ The repo records my git learning notes. You can download the [pdf][1] or [html][
                     创建GitHub账号
                 </li>
                 <li>
-                <a href="#D">
                     创建第一个仓库
-                </a>
                     <ul>
                     <li>创建仓库</li>
-                    <li>ssh key生成<</li>
+                    <li>ssh key生成</li>
                     <li>git简单工作流</li>
                     </ul>
                 </li>
